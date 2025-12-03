@@ -1,0 +1,14 @@
+deepface
+streamlit
+tf-keras
+opencv-python
+pillow
+pandas
+numpy<2.0
+scipy
+ultralytics
+
+# cd 'TRY'                    (Back = cd ..)
+# .\.venv\Scripts\Activate.ps1
+# python find_me.py "C:\Users\NEEL\OneDrive\Desktop\Python\My_code\My_projects\Face_Detect\face-recognition-streamlit\vivek.jpeg" "C:\Users\NEEL\OneDrive\Desktop\Python\My_code\My_projects\Face_Detect\face-recognition-streamlit\Image_data" 0.55
+# streamlit run app.py
